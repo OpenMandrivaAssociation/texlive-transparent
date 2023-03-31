@@ -1,6 +1,6 @@
 Name:		texlive-transparent
 Version:	64852
-Release:	1
+Release:	2
 Summary:	Using a color stack for transparency with pdfTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/transparent
