@@ -3,7 +3,7 @@ Version:	64852
 Release:	2
 Summary:	Using a color stack for transparency with pdfTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/transparent
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/transparent
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/transparent.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/transparent.doc.r%{version}.tar.xz
